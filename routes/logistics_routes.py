@@ -31,7 +31,7 @@ logistics_bp = Blueprint("logistics", __name__)
 _agent: AutonomousOrchestratorAgent | None = None
 
 
-_GEMINI_API_KEY = "AIzaSyCRUmzBqn9WUn8YxlOc5hmN7_JCotCHq_w"
+_GEMINI_API_KEY = "AIzaSyDbxF-Qnh--w2Dd3oCs10F8VKvI0x6m2C0"
 
 
 def _get_agent() -> AutonomousOrchestratorAgent:
